@@ -1,7 +1,7 @@
 # Ibai Lejona
-## Estudiande cuatrovientos
+## Estudiante [Cuatrovientos] (http://cuatrovientos.org)
 
-Estudio:
+Estudio los siguientes lenguajes de programación:
   - Visual basic
   - Java
   - HTML
