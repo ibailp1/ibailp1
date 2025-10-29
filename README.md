@@ -7,4 +7,4 @@ Estudio los siguientes lenguajes de programación:
   - HTML
 
 
-![texto alternativo](./4vientos_logo.png)
+![imagen cuatrovientos](./4vientos_logo.png)
